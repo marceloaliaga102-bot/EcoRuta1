@@ -1,0 +1,6 @@
+{
+  "name": "EcoRuta",
+  "description": "Aplicación digital para comparar rutas ecológicas, calcular emisiones de CO₂ y optimizar tus viajes diarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
